@@ -1,0 +1,42 @@
+.op1 {
+    background-color: blueviolet;
+    padding: 8px;
+    margin-right: 8px;
+    border-radius: 6px;
+    color: white;
+    display: inline-block;
+}
+.op2 {
+    background-color: blueviolet;
+    padding: 8px;
+    margin-right: 8px;
+    border-radius: 6px;
+    margin-top: 20px;
+    color: white;
+    display: inline-block;
+}
+.op3 {
+    background-color: blueviolet;
+    padding: 8px;
+    margin-right: 30px;
+    margin-top: 20px;
+    border-radius: 6px;
+    color: white;
+    display: inline-block;
+    margin-bottom: 20px;
+}
+.titulo {
+    background-color: green;
+    padding: 8px;
+}
+.opcoes{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: baseline;
+    margin-inline: 50px;
+
+}
+.resultados{
+    padding: 5px;
+}
